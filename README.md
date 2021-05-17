@@ -1,0 +1,1 @@
+En este blog explico que hemos generado un código R con las soluciones a las preguntas que os envié el viernes. Ahora lo vamos a llevar a un repositorio Git y posteriormente lo clonaremos en GitHub
