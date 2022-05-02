@@ -7,10 +7,10 @@ library(BBmisc)
 library(discretization)
 library(smoothmest)
 
-WHR <- read.csv("world-happiness-report.csv")
-names(WHR)[1]<-'Country_Name'
-WHR_2021 <- read.csv("world-happiness-report-2021.csv")
-names(WHR_2021)[1]<-'Country_Name'
+#WHR <- read.csv("world-happiness-report.csv")
+#names(WHR)[1]<-'Country_Name'
+#WHR_2021 <- read.csv("world-happiness-report-2021.csv")
+#names(WHR_2021)[1]<-'Country_Name'
 
 str(WHR)
 str(WHR_2021)
